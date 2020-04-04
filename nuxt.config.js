@@ -20,6 +20,12 @@ export default {
   */
   loading: { color: '#fff' },
   /*
+  ** Router settings
+  */
+  router: {
+    base: '/Border-Control-Queueing-System-Prototype/'
+  },
+  /*
   ** Global CSS
   */
   css: [
