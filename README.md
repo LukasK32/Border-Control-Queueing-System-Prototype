@@ -1,6 +1,6 @@
-# border-control-queue
+# Border Control Queueing System
 
-> HackYeah 2020 Online
+Border Control Queueing System prototype I made for HackYeah 2020 Online
 
 ## Build Setup
 
