@@ -13,7 +13,7 @@
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
+    "nuxt": "^3.12.4",
     "nuxt-buefy": "^0.3.2"
   },
   "devDependencies": {
